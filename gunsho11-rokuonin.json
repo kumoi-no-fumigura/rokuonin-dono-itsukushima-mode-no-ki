@@ -1,6 +1,7 @@
 {
  "work": "鹿苑院殿厳島詣記",
  "work_id": "gunsho11-rokuonin",
+ "repo": "kumoi-no-fumigura/rokuonin-dono-itsukushima-mode-no-ki",
  "yomi": "ろくおんいんどのいつくしまもうでのき",
  "category": "紀行",
  "editions": [
@@ -68,6 +69,5 @@
    ],
    "text": "卷第三百卅三鹿苑院殿嚴島詣記大内左京權大夫などなるべし。かちよりをひ〓〓にまいりし人。畠山右衞門佐。同左近大夫將監。山名播磨守。土岐伊豫守。探題。同右衞門佐。同中務大輔。などきこゆ。みな廿七日八日などにぞ京に入ける。同右衞門佐。同左近大夫將監。土岐伊豫守。"
   }
- ],
- "repo": "kumoi-no-fumigura/rokuonin-dono-itsukushima-mode-no-ki"
+ ]
 }
